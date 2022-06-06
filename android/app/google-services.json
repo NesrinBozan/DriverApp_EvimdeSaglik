@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218593342097",
+    "project_id": "evimdesaglik-d1415",
+    "storage_bucket": "evimdesaglik-d1415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218593342097:android:95e50ac94a5413650dc530",
+        "android_client_info": {
+          "package_name": "com.nesrin.saglikkapimda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218593342097-mglhqne40o7hs9adcn6p5402kc58joo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWBZxzSOH7DsydeNypY9QYlToyt8BqC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218593342097-mglhqne40o7hs9adcn6p5402kc58joo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
